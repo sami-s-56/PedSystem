@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PoliceWomenController
+  m_Controller: {fileID: 9100000, guid: 088218492244a9b4883e89d176a587b8, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 161504121b6e83a4280e7966bb54e0cd, type: 2}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 20fbc456a5ff83a419ecb8e396d51ef2,
+      type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: f594092e984ebe24e951c9291467702f, type: 2}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 57567b911fb4a864e85816f090e2f6e5,
+      type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 7481619f0899b084fb8cfd2c015992b3, type: 2}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 5abfb5d4ebe01094599880ee1b816940,
+      type: 3}
